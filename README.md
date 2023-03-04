@@ -1,2 +1,2 @@
 # Support Vector Machine
-# Run Main
+Go to src/
