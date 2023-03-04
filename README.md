@@ -1,2 +1,3 @@
-# Support Vector Machine
-Go to src/
+# Support Vector Machine for Digit Recognition
+Go to src/example
+Run Main
